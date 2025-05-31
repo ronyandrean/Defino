@@ -1,0 +1,22 @@
+.button-icon {
+    background-color: white;
+    border: 1px solid #007a5e;
+    border-radius: 0.3rem;
+    text-align: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.button-icon:hover {
+    background-color: #03a57f;
+    border: 1px solid #007a5e;
+    fill: black;
+    border-radius: 0.3rem;
+    text-align: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.bi-bi-bag:hover {
+    fill: black;
+}

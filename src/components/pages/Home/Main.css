@@ -1,0 +1,47 @@
+.button-main-shop {
+    background-color: #007a5e;
+    border: none;
+    color: white;
+    padding: 25px 32px;
+    border-radius: 0.3rem;
+    text-align: center;
+    align-items: center;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.button-main-shop:hover {
+    background-color: #005e47;
+    border: none;
+    color: white;
+    padding: 25px 32px;
+    border-radius: 0.3rem;
+    text-align: center;
+    align-items: center;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.button-main-catalog {
+    background-color: white;
+    color: #007a5e;
+    border: 1.4px solid #007a5e;
+    padding: 25px 32px;
+    border-radius: 0.3rem;
+    text-align: center;
+    align-items: center;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.button-main-catalog:hover{
+    background-color: #007a5d36;
+    color: black;
+    border: 1.4px solid #007a5e;
+    padding: 25px 32px;
+    border-radius: 0.3rem;
+    text-align: center;
+    align-items: center;
+    font-size: 16px;
+    cursor: pointer;
+}
